@@ -1,11 +1,6 @@
 - 👋 Hi, I’m @GOREFFPLAZY
-- 👀 I’m interested in html and css
-- 🌱 I’m currently learning html and css
-- 💞️ I’m looking to collaborate on a game site
+- 👀 I’m interested in html, css, python and lua
+- 🌱 I’m currently learning how to bhop in cs
+- 💞️ I’m looking to collaborate on nth
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: im new
-
-<!---
-GOREFFPLAZY/GOREFFPLAZY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ⚡ Fun fact: i like dih
