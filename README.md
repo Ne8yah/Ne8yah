@@ -52,16 +52,6 @@
     </td>
   </tr>
   <tr>
-    <td><b>C#</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Level-2%25-178600?style=for-the-badge&logo=csharp&logoColor=white" />
-      <div style="background:#333; border-radius:8px; width:100%; height:15px;">
-        <div style="background:linear-gradient(90deg,#178600,#2c3e50); height:100%; width:2%; border-radius:8px;"></div>
-      </div>
-      <br>
-      <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="40px" alt="C# gif"/>
-    </td>
-  </tr>
 </table>
 
 ---
