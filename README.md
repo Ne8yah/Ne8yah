@@ -70,7 +70,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ne8yah&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ne8yah&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
 </p>
 
 <p align="center">
