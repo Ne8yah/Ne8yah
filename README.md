@@ -1,12 +1,3 @@
-<!--
-README Bio Template
-
-How to use:
-- Replace sections wrapped in <...> with your content.
-- Keep or remove sections you don't need.
-- Use the badges/icons you prefer for social links.
--->
-
 # Hello — I'm Ne8 👋
 
 
@@ -36,4 +27,3 @@ I mostly play [Rainbow six siege](https://www.ubisoft.com/en-us/game/rainbow-six
 ## Fun Facts
 
 - [i like sushi.](https://cdn.discordapp.com/attachments/1350570850151170122/1421859670317863043/sa-gor-du-egen-sushi.png?ex=68da9182&is=68d94002&hm=9597fc6c1fbaa6766ccec8d44cffa328396448fe538dbc9dad8ea8fd0602706f&)
-
