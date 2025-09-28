@@ -81,6 +81,3 @@
   I really like sushi.
 </p>
 
----
-
-<p align="center">© 2025 Ne8 — Made with ❤️ and a bit of code</p>
