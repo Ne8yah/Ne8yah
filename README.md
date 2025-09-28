@@ -21,8 +21,8 @@ I mostly play [Rainbow six siege](https://www.ubisoft.com/en-us/game/rainbow-six
 
 ## Skills
 
-- Languages:  HTML, CSS, Python, >
-- Areas:  Frontend, Machine Learning>
+- Languages:  HTML, CSS, Python,
+- Areas:  Frontend, Machine Learning
 
 ## Projects
 
