@@ -17,10 +17,6 @@
 
 <h2>🛠 Skills</h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,python,cs" />
-</p>
-
 <table>
   <tr>
     <td><b>HTML</b></td>
@@ -29,6 +25,8 @@
       <div style="background:#333; border-radius:8px; width:100%; height:15px;">
         <div style="background:linear-gradient(90deg,#e34c26,#f06529); height:100%; width:75%; border-radius:8px;"></div>
       </div>
+      <br>
+      <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40px" alt="HTML gif"/>
     </td>
   </tr>
   <tr>
@@ -38,6 +36,8 @@
       <div style="background:#333; border-radius:8px; width:100%; height:15px;">
         <div style="background:linear-gradient(90deg,#2965f1,#563d7c); height:100%; width:80%; border-radius:8px;"></div>
       </div>
+      <br>
+      <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="40px" alt="CSS gif"/>
     </td>
   </tr>
   <tr>
@@ -47,6 +47,8 @@
       <div style="background:#333; border-radius:8px; width:100%; height:15px;">
         <div style="background:linear-gradient(90deg,#3776ab,#4b8bbe); height:100%; width:40%; border-radius:8px;"></div>
       </div>
+      <br>
+      <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="40px" alt="Python gif"/>
     </td>
   </tr>
   <tr>
@@ -56,9 +58,25 @@
       <div style="background:#333; border-radius:8px; width:100%; height:15px;">
         <div style="background:linear-gradient(90deg,#178600,#2c3e50); height:100%; width:2%; border-radius:8px;"></div>
       </div>
+      <br>
+      <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="40px" alt="C# gif"/>
     </td>
   </tr>
 </table>
+
+---
+
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ne8yah&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ne8yah&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ne8yah&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
 
 
 ---
