@@ -17,49 +17,48 @@
 
 <h2>🛠 Skills</h2>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,python,cs" />
 </p>
 
-<!-- HTML -->
-<b>HTML</b>  
-<div style="background: #333; border-radius: 8px; width: 100%; height: 20px;">
-  <div style="background: linear-gradient(90deg, #e34c26, #f06529); height: 100%; width: 75%; border-radius: 8px;"></div>
-</div>
-75%
-
-<!-- CSS -->
-<b>CSS</b>  
-<div style="background: #333; border-radius: 8px; width: 100%; height: 20px;">
-  <div style="background: linear-gradient(90deg, #2965f1, #563d7c); height: 100%; width: 80%; border-radius: 8px;"></div>
-</div>
-80%
-
-<!-- Python -->
-<b>Python</b>  
-<div style="background: #333; border-radius: 8px; width: 100%; height: 20px;">
-  <div style="background: linear-gradient(90deg, #3776ab, #4b8bbe); height: 100%; width: 40%; border-radius: 8px;"></div>
-</div>
-40%
-
-<!-- C# -->
-<b>C#</b>  
-<div style="background: #333; border-radius: 8px; width: 100%; height: 20px;">
-  <div style="background: linear-gradient(90deg, #178600, #2c3e50); height: 100%; width: 2%; border-radius: 8px;"></div>
-</div>
-2%
-
----
-
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ne8yah&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ne8yah&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<table>
+  <tr>
+    <td><b>HTML</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Level-75%25-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
+      <div style="background:#333; border-radius:8px; width:100%; height:15px;">
+        <div style="background:linear-gradient(90deg,#e34c26,#f06529); height:100%; width:75%; border-radius:8px;"></div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td><b>CSS</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Level-80%25-2965f1?style=for-the-badge&logo=css3&logoColor=white" />
+      <div style="background:#333; border-radius:8px; width:100%; height:15px;">
+        <div style="background:linear-gradient(90deg,#2965f1,#563d7c); height:100%; width:80%; border-radius:8px;"></div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Python</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Level-40%25-3776ab?style=for-the-badge&logo=python&logoColor=white" />
+      <div style="background:#333; border-radius:8px; width:100%; height:15px;">
+        <div style="background:linear-gradient(90deg,#3776ab,#4b8bbe); height:100%; width:40%; border-radius:8px;"></div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td><b>C#</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Level-2%25-178600?style=for-the-badge&logo=csharp&logoColor=white" />
+      <div style="background:#333; border-radius:8px; width:100%; height:15px;">
+        <div style="background:linear-gradient(90deg,#178600,#2c3e50); height:100%; width:2%; border-radius:8px;"></div>
+      </div>
+    </td>
+  </tr>
+</table>
 
 
 ---
