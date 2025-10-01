@@ -27,7 +27,7 @@
       </div>
       <br>
       
-    </td>
+ 
   </tr>
   <tr>
     <td><b>CSS</b></td>
@@ -38,7 +38,7 @@
       </div>
       <br>
       
-    </td>
+   
   </tr>
   <tr>
     <td><b>Python</b></td>
@@ -49,7 +49,7 @@
       </div>
       <br>
       
-    </td>
+ 
   </tr>
   <tr>
 </table>
