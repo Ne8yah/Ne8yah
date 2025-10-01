@@ -26,7 +26,7 @@
         <div style="background:linear-gradient(90deg,#e34c26,#f06529); height:100%; width:75%; border-radius:8px;"></div>
       </div>
       <br>
-      <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40px" alt="HTML gif"/>
+      
     </td>
   </tr>
   <tr>
@@ -37,7 +37,7 @@
         <div style="background:linear-gradient(90deg,#2965f1,#563d7c); height:100%; width:80%; border-radius:8px;"></div>
       </div>
       <br>
-      <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="40px" alt="CSS gif"/>
+      
     </td>
   </tr>
   <tr>
@@ -48,7 +48,7 @@
         <div style="background:linear-gradient(90deg,#3776ab,#4b8bbe); height:100%; width:40%; border-radius:8px;"></div>
       </div>
       <br>
-      <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="40px" alt="Python gif"/>
+      
     </td>
   </tr>
   <tr>
